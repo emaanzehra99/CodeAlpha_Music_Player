@@ -21,7 +21,7 @@ let songs = [
         name: 'song 4',
         path: 'musics/Song 4.mp3',
         artist: 'artist 4',
-        cover: 'images/song6.png'
+        cover: 'images/song4 (2).png'
     },
     {
         name: 'song 5',
